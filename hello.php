@@ -4,8 +4,8 @@
  * @version 1.6
  */
 /*
-Plugin Name: Good Good Father
-Plugin URI: http://wordpress.org/extend/plugins/good-good-father/
+Plugin Name: Hello Good Good Father
+Plugin URI: http://wordpress.org/extend/plugins/hello-good-good-father/
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in a few words sung most famously by Chris Tomlin: Good Good Father. When activated you will randomly see a lyric from <cite>Good Good Father</cite> in the upper right of your admin screen on every page.
 Author: Mackenly Jones
 Version: 1.0
