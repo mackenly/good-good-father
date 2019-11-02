@@ -1,4 +1,4 @@
-=== Good Good Father ===
+=== Hello Good Good Father ===
 Contributors: mackenly
 Requires at least: 3.0
 Stable tag: 1.6
